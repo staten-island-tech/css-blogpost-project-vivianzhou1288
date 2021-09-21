@@ -1,7 +1,48 @@
 .head {
   text-align: center;
   background-color: aqua;
-  font-family: "Rubik Beastly", cursive;
+  font-family: "Lobster", cursive;
+  font-size: 250px;
   margin: 20px 10px;
   border-radius: 10px;
+}
+.blog1 {
+  display: inline-block;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 100px;
+  border-color: teal;
+  background-color: lightblue;
+  font-family: "Kanit", sans-serif;
+}
+.blog1 img {
+  width: 470px;
+}
+.blog2 {
+  display: inline-block;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 500px;
+  margin-right: 100px;
+  font-family: "Kanit", sans-serif;
+}
+.blog2 img {
+  width: 520px;
+}
+.blog3 {
+  display: inline-block;
+  border-style: dashed;
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 600px;
+  margin-right: 350px;
+  font-family: "Kanit", sans-serif;
 }
