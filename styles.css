@@ -1,10 +1,19 @@
+.header {
+  background-color: lightsteelblue;
+  padding-bottom: 10px;
+  background-image: url("https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1000px;
+}
 .head {
   text-align: center;
-  background-color: aqua;
   font-family: "Lobster", cursive;
   font-size: 250px;
-  margin: 20px 10px;
   border-radius: 10px;
+}
+#caption {
+  font-size: 100px;
 }
 .blog1 {
   display: inline-block;
@@ -19,17 +28,18 @@
   font-family: "Kanit", sans-serif;
 }
 .blog1 img {
-  width: 470px;
+  width: 480px;
 }
 .blog2 {
   display: inline-block;
-  border-style: solid;
+  border-style: dotted;
   border-radius: 20px;
   padding: 30px;
   text-align: center;
   margin-top: 100px;
   margin-left: 500px;
   margin-right: 100px;
+  background-color: lightcoral;
   font-family: "Kanit", sans-serif;
 }
 .blog2 img {
@@ -42,7 +52,8 @@
   padding: 30px;
   text-align: center;
   margin-top: 200px;
-  margin-left: 600px;
+  margin-left: 630px;
   margin-right: 350px;
+  background-color: lightgreen;
   font-family: "Kanit", sans-serif;
 }
