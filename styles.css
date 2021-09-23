@@ -1,59 +1,55 @@
 .header {
-  background-color: lightsteelblue;
   padding-bottom: 10px;
-  background-image: url("https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+  background-image: url(https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 1000px;
+  height: 1200px;
 }
 .head {
   text-align: center;
   font-family: "Lobster", cursive;
   font-size: 250px;
   border-radius: 10px;
+  padding-top: 200px;
 }
 #caption {
   font-size: 100px;
+  padding-top: 100px;
 }
-.blog1 {
+.blog {
   display: inline-block;
   border-style: solid;
   border-radius: 20px;
-  padding: 30px;
-  text-align: center;
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 630px;
+}
+.blog1 {
+  padding: 35px;
+  text-align: center;
   border-color: teal;
   background-color: lightblue;
   font-family: "Kanit", sans-serif;
 }
 .blog1 img {
-  width: 480px;
+  width: 500px;
 }
 .blog2 {
-  display: inline-block;
-  border-style: dotted;
-  border-radius: 20px;
   padding: 30px;
   text-align: center;
-  margin-top: 100px;
-  margin-left: 500px;
   margin-right: 100px;
   background-color: lightcoral;
   font-family: "Kanit", sans-serif;
 }
 .blog2 img {
-  width: 520px;
+  width: 510px;
 }
 .blog3 {
-  display: inline-block;
-  border-style: dashed;
-  border-radius: 20px;
   padding: 30px;
   text-align: center;
-  margin-top: 200px;
-  margin-left: 630px;
   margin-right: 350px;
   background-color: lightgreen;
   font-family: "Kanit", sans-serif;
+}
+.blog3 img {
+  width: 510px;
 }
